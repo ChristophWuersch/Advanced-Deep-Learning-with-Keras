@@ -44,6 +44,7 @@ def train(models, data, params):
     Adversarial is trained next with fake images pretending 
     to be real and corresponding one-hot labels.
     Generate sample images per save_interval.
+    This comment was added to test the commit and push to GitHub.
 
     # Arguments
         models (list): Generator, Discriminator,
